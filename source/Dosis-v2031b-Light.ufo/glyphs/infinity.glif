@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="infinity" format="2">
+  <advance width="853"/>
+  <unicode hex="221E"/>
+  <outline>
+    <contour>
+      <point x="229" y="79" type="curve" smooth="yes"/>
+      <point x="302" y="79"/>
+      <point x="380" y="124"/>
+      <point x="426" y="197" type="curve"/>
+      <point x="473" y="124"/>
+      <point x="550" y="79"/>
+      <point x="623" y="79" type="curve" smooth="yes"/>
+      <point x="706" y="79"/>
+      <point x="783" y="131"/>
+      <point x="783" y="236" type="curve" smooth="yes"/>
+      <point x="783" y="341"/>
+      <point x="706" y="393"/>
+      <point x="624" y="393" type="curve" smooth="yes"/>
+      <point x="550" y="393"/>
+      <point x="473" y="347"/>
+      <point x="426" y="274" type="curve"/>
+      <point x="380" y="347"/>
+      <point x="302" y="393"/>
+      <point x="229" y="393" type="curve" smooth="yes"/>
+      <point x="147" y="393"/>
+      <point x="70" y="341"/>
+      <point x="70" y="236" type="curve" smooth="yes"/>
+      <point x="70" y="131"/>
+      <point x="147" y="79"/>
+    </contour>
+    <contour>
+      <point x="230" y="115" type="curve" smooth="yes"/>
+      <point x="163" y="115"/>
+      <point x="106" y="153"/>
+      <point x="106" y="236" type="curve" smooth="yes"/>
+      <point x="106" y="319"/>
+      <point x="163" y="357"/>
+      <point x="230" y="357" type="curve" smooth="yes"/>
+      <point x="293" y="357"/>
+      <point x="368" y="318"/>
+      <point x="406" y="236" type="curve"/>
+      <point x="368" y="154"/>
+      <point x="293" y="115"/>
+    </contour>
+    <contour>
+      <point x="623" y="115" type="curve" smooth="yes"/>
+      <point x="560" y="115"/>
+      <point x="485" y="154"/>
+      <point x="447" y="236" type="curve"/>
+      <point x="485" y="318"/>
+      <point x="560" y="357"/>
+      <point x="623" y="357" type="curve" smooth="yes"/>
+      <point x="690" y="357"/>
+      <point x="747" y="319"/>
+      <point x="747" y="236" type="curve" smooth="yes"/>
+      <point x="747" y="153"/>
+      <point x="690" y="115"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/26 19:38:58</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>65</integer>
+            <integer>36</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>742</integer>
+            <integer>36</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>79</integer>
+            <integer>36</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>357</integer>
+            <integer>36</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <anchor x="180" y="500" name="_top"/>
+  <anchor x="180" y="888" name="top"/>
+  <outline>
+    <component base="circumflexcomb"/>
+    <component base="acutecomb" xOffset="104" yOffset="231"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/27 04:02:38</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>342</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <outline>
+    <contour>
+      <point x="97" y="177" type="curve" smooth="yes"/>
+      <point x="698" y="177" type="line" smooth="yes"/>
+      <point x="722" y="177"/>
+      <point x="746" y="202"/>
+      <point x="746" y="240" type="curve" smooth="yes"/>
+      <point x="746" y="276"/>
+      <point x="722" y="304"/>
+      <point x="698" y="304" type="curve" smooth="yes"/>
+      <point x="97" y="304" type="line" smooth="yes"/>
+      <point x="69" y="304"/>
+      <point x="50" y="276"/>
+      <point x="50" y="240" type="curve" smooth="yes"/>
+      <point x="50" y="202"/>
+      <point x="69" y="177"/>
+    </contour>
+  </outline>
+</glyph>
