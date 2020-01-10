@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="103" y="0" name="_bottom"/>
+  <anchor x="103" y="-228" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="110" y="-212" type="curve" smooth="yes"/>
+      <point x="130" y="-188"/>
+      <point x="156" y="-138"/>
+      <point x="156" y="-102" type="curve" smooth="yes"/>
+      <point x="156" y="-68"/>
+      <point x="132" y="-57"/>
+      <point x="106" y="-57" type="curve" smooth="yes"/>
+      <point x="66" y="-57"/>
+      <point x="54" y="-81"/>
+      <point x="54" y="-98" type="curve" smooth="yes"/>
+      <point x="54" y="-122"/>
+      <point x="78" y="-122"/>
+      <point x="78" y="-147" type="curve" smooth="yes"/>
+      <point x="78" y="-174"/>
+      <point x="50" y="-190"/>
+      <point x="50" y="-205" type="curve" smooth="yes"/>
+      <point x="50" y="-218"/>
+      <point x="67" y="-228"/>
+      <point x="84" y="-228" type="curve" smooth="yes"/>
+      <point x="89" y="-228"/>
+      <point x="98" y="-227"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/12/07 07:38:52</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>206</integer>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>14</integer>
+            <integer>221</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-48</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-209</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

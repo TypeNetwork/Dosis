@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb" format="2">
+  <unicode hex="0307"/>
+  <anchor x="80" y="500" name="_top"/>
+  <anchor x="80" y="711" name="top"/>
+  <outline>
+    <contour>
+      <point x="79" y="649" type="curve" smooth="yes"/>
+      <point x="97" y="649"/>
+      <point x="109" y="661"/>
+      <point x="109" y="674" type="curve" smooth="yes"/>
+      <point x="109" y="686" type="line" smooth="yes"/>
+      <point x="109" y="699"/>
+      <point x="97" y="711"/>
+      <point x="79" y="711" type="curve" smooth="yes"/>
+      <point x="61" y="711"/>
+      <point x="50" y="699"/>
+      <point x="50" y="686" type="curve" smooth="yes"/>
+      <point x="50" y="674" type="line" smooth="yes"/>
+      <point x="50" y="661"/>
+      <point x="61" y="649"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/11/27 00:10:54</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>159</integer>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>80</integer>
+            <integer>59</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>600</integer>
+            <integer>59</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

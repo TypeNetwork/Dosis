@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <outline>
+    <contour>
+      <point x="100" y="0" type="curve" smooth="yes"/>
+      <point x="110" y="0"/>
+      <point x="118" y="9"/>
+      <point x="118" y="18" type="curve" smooth="yes"/>
+      <point x="118" y="751" type="line" smooth="yes"/>
+      <point x="118" y="761"/>
+      <point x="110" y="768"/>
+      <point x="100" y="768" type="curve" smooth="yes"/>
+      <point x="90" y="768"/>
+      <point x="83" y="761"/>
+      <point x="83" y="751" type="curve" smooth="yes"/>
+      <point x="83" y="18" type="line" smooth="yes"/>
+      <point x="83" y="9"/>
+      <point x="90" y="0"/>
+    </contour>
+    <contour>
+      <point x="211" y="598" type="curve" smooth="yes"/>
+      <point x="216" y="598"/>
+      <point x="222" y="602"/>
+      <point x="225" y="608" type="curve" smooth="yes"/>
+      <point x="241" y="640"/>
+      <point x="258" y="689"/>
+      <point x="258" y="705" type="curve" smooth="yes"/>
+      <point x="258" y="725"/>
+      <point x="242" y="741"/>
+      <point x="223" y="741" type="curve" smooth="yes"/>
+      <point x="202" y="741"/>
+      <point x="187" y="725"/>
+      <point x="187" y="705" type="curve" smooth="yes"/>
+      <point x="187" y="689"/>
+      <point x="198" y="674"/>
+      <point x="214" y="670" type="curve"/>
+      <point x="196" y="619" type="line"/>
+      <point x="195" y="617"/>
+      <point x="195" y="615"/>
+      <point x="195" y="613" type="curve" smooth="yes"/>
+      <point x="195" y="604"/>
+      <point x="203" y="598"/>
+    </contour>
+  </outline>
+</glyph>

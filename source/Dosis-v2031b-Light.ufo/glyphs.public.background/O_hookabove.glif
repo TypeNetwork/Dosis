@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohookabove" format="2">
+  <outline>
+    <component base="O"/>
+    <component base="hookabovecomb" xOffset="102" yOffset="259"/>
+  </outline>
+</glyph>

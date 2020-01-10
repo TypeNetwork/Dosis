@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u.ss02" format="2">
+  <outline>
+    <contour>
+      <point x="241" y="-6" type="curve" smooth="yes"/>
+      <point x="342" y="-6"/>
+      <point x="419" y="75"/>
+      <point x="419" y="170" type="curve" smooth="yes"/>
+      <point x="419" y="304" type="line" smooth="yes"/>
+      <point x="419" y="403"/>
+      <point x="342" y="478"/>
+      <point x="241" y="478" type="curve" smooth="yes"/>
+      <point x="138" y="478"/>
+      <point x="64" y="400"/>
+      <point x="64" y="304" type="curve" smooth="yes"/>
+      <point x="64" y="170" type="line" smooth="yes"/>
+      <point x="64" y="74"/>
+      <point x="140" y="-6"/>
+    </contour>
+    <contour>
+      <point x="241" y="29" type="curve" smooth="yes"/>
+      <point x="156" y="29"/>
+      <point x="99" y="95"/>
+      <point x="99" y="170" type="curve" smooth="yes"/>
+      <point x="99" y="304" type="line" smooth="yes"/>
+      <point x="99" y="377"/>
+      <point x="155" y="443"/>
+      <point x="241" y="443" type="curve" smooth="yes"/>
+      <point x="327" y="443"/>
+      <point x="384" y="377"/>
+      <point x="384" y="304" type="curve" smooth="yes"/>
+      <point x="384" y="170" type="line" smooth="yes"/>
+      <point x="384" y="95"/>
+      <point x="326" y="29"/>
+    </contour>
+  </outline>
+</glyph>
